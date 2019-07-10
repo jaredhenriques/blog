@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This past month I got a small office space down the road from my house for me to work at day-to-day. Don't get me wrong, working from home is amazing but like anything else it comes with some drawbacks. When I was looking for a place I knew that it needed to be within 5 minutes of my house otherwise I wouldn't be able to go home for lunch and hang  out with Alex and Elliot (wife and daughter). 
 
