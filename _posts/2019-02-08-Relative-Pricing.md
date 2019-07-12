@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Throughout  the last few years of running Renga the thing that I have found the most difficult by far is determining how to properly price. It’s been difficult to determine what to value my work at across the board because there are so many variables. I have always wanted to have a simplicity and transparency to my pricing that would be the same for all my clients. This has posed a huge issue. 
