@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Consumers have an unlimited amount of choice when making a purchasing decision that it is vital to establish connection with your true fans. The one thing that is clear of millennials is that they can sense insincere marketing immediately. They are very quick to tell when someone is "posing" a certain way. This makes a maintaining consistency in a brand's voice and values so important. Across all channels people need to see that you are truly the brand for them. You need to treat your brand as a person.
 
