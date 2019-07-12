@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 For the past few years I have released lists of my top albums from the year. I think that it is worth mentioning the process that I have crafted these lists. At the end of the year my criteria is always albums that I listened to lots throughout the year that were released in that same year. Many times, the album I listen to the most throughout the year, does not make the list because it was released the year prior and I missed it when it was released. So if there are glaring omissions, that may be why. I would always appreciate that you reach out and tell me about an album I missed just in case though. [Reach out](mailto:%20mail@jaredhenriques.com)
 
@@ -369,4 +369,3 @@ Theophilus London - Lovers Holiday EP
 - Gold Panda - Lucky Shiner
 
 It was close at the top for me I beleive that the top 6 could have been rearranged in any order and I would be fine with it, But Local Natives continues to take my heart, surpassing my always favourite Tokyo Police Club. If you have any album suggestions for me, let me know.
-
