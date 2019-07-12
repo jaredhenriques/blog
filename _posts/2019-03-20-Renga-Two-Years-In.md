@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This past week marks two years since I started Renga. Although it was two years ago that I had my first day of full-time self employed, it feels like we just started. The business that I started a couple years ago has the same heart and mission that it does today but there is a much stronger sense of clarity behind what we have today.
 
