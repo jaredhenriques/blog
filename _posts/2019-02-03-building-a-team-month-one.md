@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 One month ago I had my first full-time employee start at Renga. Our team is growing and I am both incredibly excited and a little nervous. The stakes seem higher, but it’s right where I know that I need to be.
 
