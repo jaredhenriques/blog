@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 An area that I am committing to working on this year is focus. I have always prided myself on the ability to juggle many things. What I have recently learned is that I am not very capable of sitting down and doing deep work on one thing. It scares me, the juggling is a way to distract and in a way hedge my bet. If I’m not solely focused on a task I can’t really fail it, or at least I have an excuse. Recently, [my business](https://renga.co/) has grown and in hiring a team company culture is paramount. If I can’t do deep work, how may I expect that of my team?
 
