@@ -2,7 +2,7 @@
 published: true
 ---
 
-The other day I was listening to a [Gary Vaynerchuk video](https://www.youtube.com/watch?v=SUDPX6ibtpE%5D(https://www.youtube.com/watch?v=SUDPX6ibtpE) and he was talking about something that I have been thinking about for a long time. He mentioned the idea of selling your home and renting so that you can quit the job you hate. My whole life I have been told that real estate is a smart investment and I would have always agreed, until recently.
+The other day I was listening to a [Gary Vaynerchuk video](https://www.youtube.com/watch?v=SUDPX6ibtpE) and he was talking about something that I have been thinking about for a long time. He mentioned the idea of selling your home and renting so that you can quit the job you hate. My whole life I have been told that real estate is a smart investment and I would have always agreed, until recently.
 
 I live north of Toronto and here starter homes do not really exist. In my town the cheapest home for sale at this time is around $600,000. This home would barely be big enough for our family as it’s around 1000 sqft. If we were to buy this starter home and wanted to put 20% down we would be writing a cheque for $120,000 and still have almost a half a million dollar mortgage. In a couple years time when we would like to have a second child we would need to move.
 
