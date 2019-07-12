@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Last night I went on a walk with Drew. As we walked past the back of pizza pizza I could smell the glorious scent and wondered who they would be making pizza for at that time. I wondered if there was someone that worked there we could see through the back door and we explained we were hungry but had no money would they make us a pizza? While this was going on internally I just looked at Drew and said “Isn’t it crazy that there are people in our country that cannot afford to eat?” I would like to think that anyone that I know with much would definitely share as soon as they see this person as another human. That is the key I guess, seeing them as another human. Trying to assume the best of them rather than the worst.
 
