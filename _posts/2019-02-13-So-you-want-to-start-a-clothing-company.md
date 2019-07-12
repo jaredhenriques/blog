@@ -75,7 +75,8 @@ When navigating the theme store you probably noticed that all of these themes lo
 
 The quickest way to make a Shopify site look clean is to ensure that every type of photo is the same aspect ratio. Meaning all product photos are a 1:1 aspect ratio (square). Ensuring that all slideshow images are of the same ratio (eg. 3:2 or 2:1). Without doing this, your grid will feel much more sloppy. Your slideshow will feel jumpy as the content below jumps up and down as the slides change.
 
-# Making a SaleThis is where it’s tough for me to give any advice because I believe that outside of the large bucket general advice, it needs to be customized to your brand.
+# Making a Sale
+This is where it’s tough for me to give any advice because I believe that outside of the large bucket general advice, it needs to be customized to your brand.
 
 The large bucket ideas that will work in 2019 for a clothing company are:
 
@@ -84,7 +85,9 @@ The large bucket ideas that will work in 2019 for a clothing company are:
 
 I will give this advice to nearly all clothing companies, but so will Google. You need to make content and marketing strategy that is surrounding the whitespaces of your brand. This means if your brand is targeting gamers, perhaps you run game reviews or product reviews on PC’s, mouse, keyboard, etc. Providing value to your market that allows them to engage with your brand without it feeling like a commercial.
 
-# After the Sale## ShippingShipping has gotten more expensive. A lot of new clothing companies start to put themselves into trouble by offering free shipping without understanding the cost of shipping. For example at the time of this article I put a one pound package 5 in x 3 in x 1 in shipping from Toronto to Vancouver. The cheapest rate that I am given is $16.66.
+# After the Sale
+## Shipping
+Shipping has gotten more expensive. A lot of new clothing companies start to put themselves into trouble by offering free shipping without understanding the cost of shipping. For example at the time of this article I put a one pound package 5 in x 3 in x 1 in shipping from Toronto to Vancouver. The cheapest rate that I am given is $16.66.
 
 If you are trying to sell a t-shirt for $20 and it cost you $10 and now you are going to offer free shipping. You’ve spent $26.66 for $20 of revenue and that’s not factoring in the cost of the packaging and any stickers you might want to throw in the package.
 
@@ -92,10 +95,13 @@ Shopify has a feature called real-time carrier calculated shipping. In the check
 
 Shipping can quickly break a business model. I’ve experienced this myself when I started a subscription coffee service. The premise was that you get a pound of coffee delivered to your door at whatever frequency you determined. It started to break because I didn’t have the volume to negotiate better rates with a carrier and there isn’t enough margin in a single bag of coffee to offer free shipping. I could service local subscriptions by hoping in my car and putting them on the doorstep myself, but that isn’t very scalable. This means you need to either increase your margin by reducing cost or increasing your price. Many businesses will split shipping with the customer. If shipping is generally 10, they’ll put a $5 shipping charge on the item and then sacrifice $5 of margin (If they can afford to do it).
 
-## PackagingMany ecommerce businesses that win big create an experience that feels special when it arrives at your door. My favourite example of this is moo.com. Whenever I get a moo package it’s exciting, their expensive business cards and I’m always happy to open it, because the packaging is sharp and on brand, sometimes there are little samples of new products they have. Simply it’s a continuation of their brand experience. The interaction with your brand doesn’t end at the checkout screen. It continues through right until the product gets in their hands. We just talked about the thin margins caused by shipping rates, but I would strongly recommend using any bonus margin to create a “surprise & delight” customer experience.
+## Packaging
+Many ecommerce businesses that win big create an experience that feels special when it arrives at your door. My favourite example of this is moo.com. Whenever I get a moo package it’s exciting, their expensive business cards and I’m always happy to open it, because the packaging is sharp and on brand, sometimes there are little samples of new products they have. Simply it’s a continuation of their brand experience. The interaction with your brand doesn’t end at the checkout screen. It continues through right until the product gets in their hands. We just talked about the thin margins caused by shipping rates, but I would strongly recommend using any bonus margin to create a “surprise & delight” customer experience.
 
-## NewsletterAfter you have gotten the sale, it’s important to maintain relationships with your customers. A great way to do this is email, Shopify has a built-in Mailchimp integrations where customers are automatically added to your Mailchimp list. This is a great way to announce new product launches, sales, etc. You would be surprised how well email converts to sales in 2019. Build your mailing list!
+## Newsletter
+After you have gotten the sale, it’s important to maintain relationships with your customers. A great way to do this is email, Shopify has a built-in Mailchimp integrations where customers are automatically added to your Mailchimp list. This is a great way to announce new product launches, sales, etc. You would be surprised how well email converts to sales in 2019. Build your mailing list!
 
-# ConclusionSorry for the length of this post. I was going to break it down into multiple parts but I didn’t. If you managed to get this far and still have lots of questions I’m always happy to answer an email. You can get me at [jared@renga.co](mailto:jared@renga.co) .
+# Conclusion
+Sorry for the length of this post. I was going to break it down into multiple parts but I didn’t. If you managed to get this far and still have lots of questions I’m always happy to answer an email. You can get me at [jared@renga.co](mailto:jared@renga.co) .
 
 If you are past the point of consideration and are looking to build a brand or refine your brand, no matter the industry, [Renga](https://renga.co/) focuses on just that. Shoot me an email.
