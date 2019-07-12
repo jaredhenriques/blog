@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I have looked at my blog a lot and realized how little I have been posting. I haven't been thinking less, but I have been too afraid to write things unless they were groundbreaking.
 
