@@ -1,5 +1,6 @@
-# why it took me so long to start my coffee company
-
+---
+published: false
+---
 Fear.
 
 I never felt that fear of failing was truly the answer and it wasn’t until earlier this year when I went back and watched some old #AskGaryVee episodes did one of his answers really hit home with me. Gary mentioned that it is not necessarily the fear of failing but rather the fear of failing in front of _________. Fill in your blank.
