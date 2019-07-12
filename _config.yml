@@ -1,10 +1,10 @@
 title: Jared Henriques
-email: 'hey@jared.is'
+email: hey@jared.is
 description: 'Hey, I’m Jared. I enjoy solving problems with others'
 baseurl: '/blog'
 url: 'https://jared.is/' # The base hostname & protocol for your site
 twitter: 'https://twitter.com/jaredhenriques'
-linkedin: 'https://www.linkedin.com/in/jaredhenriques/'
+linkedin: https://www.linkedin.com/in/jaredhenriques/
 
 markdown:  kramdown
 permalink: pretty
