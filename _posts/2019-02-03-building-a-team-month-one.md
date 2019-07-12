@@ -1,5 +1,6 @@
-# building a team month one
-
+---
+published: false
+---
 One month ago I had my first full-time employee start at Renga. Our team is growing and I am both incredibly excited and a little nervous. The stakes seem higher, but it’s right where I know that I need to be.
 
 Ten years ago when I launched my first business I quickly realized that what I loved to do was to bring people together around a single project. The instinct to facilitate collaboration and my love for building businesses seemed like a perfect match, however, it has posed some challenges. One of the larger lessons I have learned is that you should never expect someone else to care about your business as much as you do. Earlier in life I would have very quickly gotten into 50/50 arrangements on a project because sharing it would be more fun. However, I have seen too many businesses started by friends with an equal partnership go entirely sideways and ruin both the business and the relationship.
