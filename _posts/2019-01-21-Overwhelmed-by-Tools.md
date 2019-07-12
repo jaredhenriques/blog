@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Today I had the feeling of anxiety from digital clutter, not necessarily to scary full desktop with zero organization, but rather the way that certain processes happen and all the tools I need to run through.
 
