@@ -1,5 +1,6 @@
-# Doing work I’m proud of.
-
+---
+published: false
+---
 A couple weeks ago we launched the website of a new startup that we are working with. This project holds a very special place in my story for multiple reasons. As I mentioned in my first newsletter, since hiring a team, it feels like Renga is finding new identity. This transition was well timed by a request from a contact, who had seen my post on LinkedIn about my first hire. He sent an email asking if Renga could help him with the following:
 
 1 - Logo Design including Brand Standard Guide
