@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I have been accused of thinking too much, about enjoying introspection too much but it is amazing how different self awareness is when it moves from “something you know about yourself” compared to “something you believe about yourself”. Believe in the truest sense of the word. One that radically changes the way that you act and conduct yourself.
 
