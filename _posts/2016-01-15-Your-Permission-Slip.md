@@ -1,5 +1,6 @@
-# Your Permission Slip.
-
+---
+published: false
+---
 I have met many people with great ideas. Many of them have let financial stability take precedent. They have given up their art because it couldn't be their job. It is an all or nothing scenario with them. If they cannot afford to do it full time, they cannot afford to do it at all. "I don’t have time" seems to be synonymous with “I’m scared that I will fail.” Of course you’re afraid to fail, but really what would be so bad about failing?
 
 Failing = learning
