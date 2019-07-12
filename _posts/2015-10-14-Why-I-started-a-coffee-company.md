@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Over the last week a lot of people have been asking me about my latest project Rhythm Coffee. Mainly the questions comes out like this, “So what’s the deal with this coffee thing?” so I thought I would answer that in a public manner. In short my answer is that,
 
