@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 The other day I was listening to a [Gary Vaynerchuk video](https://www.youtube.com/watch?v=SUDPX6ibtpE%5D(https://www.youtube.com/watch?v=SUDPX6ibtpE) and he was talking about something that I have been thinking about for a long time. He mentioned the idea of selling your home and renting so that you can quit the job you hate. My whole life I have been told that real estate is a smart investment and I would have always agreed, until recently.
