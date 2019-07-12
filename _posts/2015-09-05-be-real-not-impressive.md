@@ -1,5 +1,6 @@
-# be real, not impressive
-
+---
+published: false
+---
 I have looked at my blog a lot and realized how little I have been posting. I haven't been thinking less, but I have been too afraid to write things unless they were groundbreaking.
 
 My attempt to share more and to be practicing the craft of writing "without pressure" was the idea behind [#100DaysOfThoughts](http://www.jaredhenriques.com/100daysofthoughts). Yet, even in that daily thought I felt the pressure to be impressive. To prove to others, maybe myself that I am smart, creative, innovative. Not really sure. I separated them from my "blog" to create two streams almost to say "the blog has some thoughts that are potentially well crafted, this is just crap and practice (but look how brilliant it still is)". Last night I was struck with the fact that many of my desires and goals are infected with this desire to be impressive. I genuinely want to take photos, write, create, build businesses because I believe am and made to create. It is this feeling that it needs to be perfect or profound that is toxic.
