@@ -1,5 +1,6 @@
-# today is a big day
-
+---
+published: false
+---
 Today is a big day, normally this would be because it is the first day of spring and that means winter is finally over which is just lovely, but that is not all. It is also a big day because it is my 25th birthday, a quarter of a century. I’ve never been one for birthdays but 25 seems to be the most significant feeling yet. Yet again that is not all that falls on this day. Today, March 20th 2017 also marks the first day where I am employed full time by myself. This is something I have dreamed about and talked about, as many of you know, for a very long time.
 
 I have always known that at some point in my life I would be helping businesses solve problems. It’s been my dream to help them refine their brands and develop ways to express their promise. I know that it is my gift, my calling, but I've been scared.
