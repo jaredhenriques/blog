@@ -1,5 +1,6 @@
-# Make sure your brand connects
-
+---
+published: false
+---
 Consumers have an unlimited amount of choice when making a purchasing decision that it is vital to establish connection with your true fans. The one thing that is clear of millennials is that they can sense insincere marketing immediately. They are very quick to tell when someone is "posing" a certain way. This makes a maintaining consistency in a brand's voice and values so important. Across all channels people need to see that you are truly the brand for them. You need to treat your brand as a person.
 
 This might throw you off immediately, but bear with me. We all admire people who are authentic, people who you can tell are real. Generally these people will have a good amount of self awareness, and a value system to check themselves back to. This is incredibly important for a brand to have as well. All brands (including personal brands) need to maintain the same personality. This isn't to say that the language, tone and medium need to be concrete, that's silly. Just as people develop, grow and evolve, brands do as well. What needs to remain true through this development is the core values and main personality traits.
