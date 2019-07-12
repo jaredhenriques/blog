@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I firmly believe that brands need to figure out what type of person they are before they think about any sort of output. It is incredibly important to figure out the 3-5 attributes that you want to be known for. Once you have established how you want to be seen ask your fans on Twitter and Facebook, “If you were to describe our brand with 3 attributes what would you use?”. If there is a consistent disconnect, that is on you and your business, the excuse that the customer is “not getting it” is simply pride getting in the way. You need to do a better job of getting the person you are across.
 
