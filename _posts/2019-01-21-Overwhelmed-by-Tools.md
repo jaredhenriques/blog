@@ -1,5 +1,6 @@
-# Overwhelmed by Tools
-
+---
+published: false
+---
 Today I had the feeling of anxiety from digital clutter, not necessarily to scary full desktop with zero organization, but rather the way that certain processes happen and all the tools I need to run through.
 
 It started with a very simple task of collaborative email inboxes, which turned into looking at multiple software options. We had then posted some new job positions at [renga.co/careers](https://renga.co/careers) and then I had an influx of calls to my personal cell phone. This caused me to look at Google Voice alternatives.
