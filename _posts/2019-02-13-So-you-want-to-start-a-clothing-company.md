@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In 2009 I launched my first business. It was a clothing company that we ran for 4 years. In that time, we were partnered with two charities and ended up setting up Canadian manufacturing. It was a lot of fun building a brand and team. Since I started there have been many people who have approached me asking my advice on starting their own brand. I thought it might be interesting to write a little bit about the universal advice I would give to someone who decides they want to try and build a clothing brand to sell on ecommerce.
 
