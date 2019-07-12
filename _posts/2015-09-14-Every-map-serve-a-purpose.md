@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The other day I read an essay by Frank Chimero called What Screens Want([http://frankchimero.com/writing/what-screens-want/](http://frankchimero.com/writing/what-screens-want/)) and there is part where he links to a *West Wing* clip explaining how our world map isn't correct. Yes, it is correct init's purpose which was to give a picture or naval routes. In order to accomplish accuracy for naval routes something needed to be sacrificed, the size and proportions of land. Below is the traditional world map in black outline and the Peters Projection map which is supposed to be more accurate in displaying the scale of the land masses.
 
