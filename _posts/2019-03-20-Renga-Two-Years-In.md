@@ -1,5 +1,6 @@
-# Renga - Two Years In
-
+---
+published: false
+---
 This past week marks two years since I started Renga. Although it was two years ago that I had my first day of full-time self employed, it feels like we just started. The business that I started a couple years ago has the same heart and mission that it does today but there is a much stronger sense of clarity behind what we have today.
 
 When I started I knew that I could help nearly any small business with something. Whether that was marketing, a new website, understanding ecommerce, digital marketing, anything that involved a business interacting with the digital world was a “yes we can”. The reason for this wide spread service offering wasn’t necessarily a lack of focus, but rather a £lack of confidence. I knew that the point of difference I had was from a strategic standpoint, but I found it really difficult to charge small businesses for strategy. The thought was we would do the tangible work for clients and they would fall in love with us for the intangible and later pay us for our strategy work. This didn’t work.
