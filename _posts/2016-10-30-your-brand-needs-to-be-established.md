@@ -1,5 +1,6 @@
-# your brand needs to be established.
-
+---
+published: false
+---
 I firmly believe that brands need to figure out what type of person they are before they think about any sort of output. It is incredibly important to figure out the 3-5 attributes that you want to be known for. Once you have established how you want to be seen ask your fans on Twitter and Facebook, “If you were to describe our brand with 3 attributes what would you use?”. If there is a consistent disconnect, that is on you and your business, the excuse that the customer is “not getting it” is simply pride getting in the way. You need to do a better job of getting the person you are across.
 
 People crave authenticity and consistency. It builds trust. If your point of difference from the competition is how you operate your business then the way you approach marketing and any content output needs to be reflective of your brand’s personality. If you try and approach your marketing efforts the same way that the competition does and you veer away from who you are, people will take notice and trust will start to dwindle. If you feel that it won’t work unless you compromise your personality, then you have a greater problem and it might be worth reevaluating who you are as a brand.
