@@ -19,8 +19,13 @@ After doing a workshop with us, he felt clear about his brand’s personality an
 
 When our designer took these three themes and the source material on our mood board magic quickly happened. Within a day he came back to me with three stylescapes of these directions.
 
+Rustic Antique Shop
 ![]({{site.baseurl}}/images/posts/Burrow-Stylescape-02-Rustic-Antique-Shop.jpg)
+
+Artisan Butcher
 ![]({{site.baseurl}}/images/posts/Burrow-Stylescape-03-Artisan-Butcher.jpg)
+
+Clean Scandinavian
 ![]({{site.baseurl}}/images/posts/Burrow-Stylescape-01-Clean-Scandanavian.jpg)
 
 
