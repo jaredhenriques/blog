@@ -19,9 +19,9 @@ After doing a workshop with us, he felt clear about his brand’s personality an
 
 When our designer took these three themes and the source material on our mood board magic quickly happened. Within a day he came back to me with three stylescapes of these directions.
 
-![]({{site.baseurl}}/https://www.dropbox.com/s/peg7cjhlgccenfs/Burrow-Stylescape-02-Rustic-Antique-Shop.jpg)
-![]({{site.baseurl}}/https://www.dropbox.com/s/etwohpmim9wucme/Burrow-Stylescape-03-Artisan-Butcher.jpg)
-![]({{site.baseurl}}/https://www.dropbox.com/s/jghy1fnqj5yjrdt/Burrow-Stylescape-01-Clean-Scandanavian.jpg?dl=0)
+![]({{site.baseurl}}/images/posts/Burrow-Stylescape-02-Rustic-Antique-Shop.jpg)
+![]({{site.baseurl}}/images/posts/Burrow-Stylescape-03-Artisan-Butcher.jpg)
+![]({{site.baseurl}}/images/posts/Burrow-Stylescape-01-Clean-Scandanavian.jpg)
 
 
 I was blown away by how quickly he was able to capture the three visual directions and pair them with colours and typefaces that told a cohesive story. With some minor tweaks we could now present these three visual concepts to Evan and have a much more narrowed sandbox at which to explore identity systems in.
@@ -30,7 +30,7 @@ When Evan saw these he was immediately drawn to one, as we dove deep we started 
 
 Here is the refined stylescape bringing in the other elements he enjoyed
 
-![]({{site.baseurl}}/https://www.dropbox.com/s/hpins76wm0b1dly/19-06-27-Burrow-Barbering-Stylescapes-C.jpg?dl=0)
+![]({{site.baseurl}}/images/posts/19-06-27-Burrow-Barbering-Stylescapes-C.jpg)
 
 
 The speed at which we were able to get into the client’s brain and extract many interesting visual preferences while still bringing it back to the brand had removed much of the trial and error that we experienced in the lost clients process. We were able to deliver results that Evan was extremely excited about and create with much more purpose and direction.
