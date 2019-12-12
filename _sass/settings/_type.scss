@@ -3,8 +3,15 @@
 // *----------------------------------*/
 
 $font-base:
-font-family: freight-text-pro, serif;
-font-style: normal;
+  -apple-system,
+  BlinkMacSystemFont,
+  'Segoe UI',
+  Helvetica,
+  Arial,
+  sans-serif,
+  'Apple Color Emoji',
+  'Segoe UI Emoji',
+  'Segoe UI Symbol';
 $font-monospace: 'Source Code Pro', monospace;
 
 $font-size-base:   19px;
