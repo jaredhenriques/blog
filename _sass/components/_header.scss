@@ -5,10 +5,14 @@
 .c-header {
   &__inner {
     padding: $base-spacing-unit 0;
-    border-bottom: 1px solid $color-border;
+    border-bottom: none;
   }
 
   &__icon {
     vertical-align: middle;
+  }
+
+  .nav-item{
+    padding-right: 20px;
   }
 }
