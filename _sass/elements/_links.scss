@@ -6,7 +6,6 @@ a {
   text-decoration: none;
   color: $color-link;
   transition: $global-transition;
-  border-bottom: 4px solid $color-brand;
 
   @include attention() {
     text-decoration: none;
