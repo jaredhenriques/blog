@@ -6,6 +6,10 @@
 
   padding-top: 20px;
 
+  .c-header a{
+    border-bottom: 4px solid $color-brand;
+  }
+
   &__inner {
     padding: $base-spacing-unit 0;
     border-bottom: none;
@@ -19,9 +23,9 @@
     padding-right: 20px;
     font-size: 30px;
     font-weight: 400;
-    border-bottom: 4px solid $color-brand;
   }
   .nav-item a:hover {
     color: #F07E70;
   }
+
 }
