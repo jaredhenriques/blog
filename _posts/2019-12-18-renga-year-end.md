@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 A year ago I knew that I was at the beginning of a formational period. I had a one month old and was negotiating with Matt to become the first Renga employee. It’s hard to believe that this was only a year ago, as I can hardly remember what life without Elliot or the Renga team was like. 
 
