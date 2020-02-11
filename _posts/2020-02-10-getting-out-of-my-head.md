@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Getting Out Of My Head
 
