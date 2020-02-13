@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Last week I watched some episodes of [Netflix's Abstract](https://www.netflix.com/title/80057883). A show that takes a deep dive on the art of design. 
 
