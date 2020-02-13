@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # taking from renga
 
@@ -16,4 +16,4 @@ What I need to practice and become an expert at, is helping people get to the to
 
 This is what I also need to do for our organization. Have the space to foster and build what might be on the other side of the hill while encouraging and helping us get to the top of the hill to actualize it. As much as I enjoy the execution of a project, the only way for Renga to grow into its healthiest version is for me to be focusing on the business rather than the work. 
 
-This seems counterintuitive as the work is what will define a good chunk of our business, however, as we are in the process of onboarding employee number six I am transitioning. This new role will require me to shape where we are heading and preserving our identity throughout growth.  I will provide insight into the process and the methods and then trust our amazing team to execute. This new season is going to come with a lot of challenges, but I am starting to feel much more clear about what I am hoping to take out of Renga this next year. 
+This seems counterintuitive as the work is what will define a good chunk of our business, however, as we are in the process of onboarding employee number six I am transitioning. This new role will require me to shape where we are heading and preserving our identity throughout growth.  I will provide insight into the process and the methods and then trust our amazing team to execute. This new season is going to come with a lot of challenges, but I am starting to feel much more clear about what I am hoping to take out of Renga this next year.
