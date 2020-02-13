@@ -7,7 +7,7 @@ I was reflecting on this fine line and I came to the conclusion that it isn't a 
 
 This idea reminds me of one of my favourite sayings. It goes something along the lines of "We over estimate what we can do in a year and underestimate what we can do in 10 years". I fall victim to this line of thinking often. I set lofty goals for Renga in 2019, and was a little disappointed when we didn't hit all of them, but then I reflect where I was three years ago. 
 
-Three years ago I was working a job that I did not enjoy, feeling a strong desire to make a jump and start something on my own. My wife told me "when you get your first client, you can quit." This was less than three years ago... Unbelievable. I was working a job I hated for half of the money I make now. Less than three years later, I get to do something that I love with an incredible team. All of this has been a slow building journey, putting one foot in front of the other and making progress.
+Three years ago I was working a job that I did not enjoy, feeling a strong desire to make a jump and start something on my own. My wife told me "when you get your first client, you can quit." This was less than three years ago... unbelievable. I was working a job I hated for half of the money I make now. Less than three years later, I get to do something that I love with an incredible team. All of this has been a slow building journey, putting one foot in front of the other and making progress.
 
 When I think about the amount that I have learned and grown in the past three years, it makes me incredibly excited about what three years from now looks like. The crazy part is that three years from today I will only be 30 years old. I've got so much time and fun ahead.
 
