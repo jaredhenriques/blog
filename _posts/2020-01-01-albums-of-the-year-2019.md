@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Every year for this past decade I have released a top albums of the year at the new year. As I was making this years list I took a look at the archives of these lists and was blown away that the first one I did was for 2010. 
 
