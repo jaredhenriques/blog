@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This past week I was speaking with someone about what it's like to be an entrepreneur. As we discussed some of the challenges we started to discuss the importance of stress. Some stress is good and necessary to push you forward. However, there is a very fine line between when stress is a helpful motivator and a crippling deterrent.
 
@@ -11,4 +11,4 @@ Three years ago I was working a job that I did not enjoy, feeling a strong desir
 
 When I think about the amount that I have learned and grown in the past three years, it makes me incredibly excited about what three years from now looks like. The crazy part is that three years from today I will only be 30 years old. I've got so much time and fun ahead.
 
-When I adopt this perspective, that long list of to dos feels much more manageable. 
+When I adopt this perspective, that long list of to dos feels much more manageable.
