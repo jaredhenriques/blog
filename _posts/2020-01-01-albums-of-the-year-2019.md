@@ -39,7 +39,7 @@ GoldLink - [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH?si=n
 ---
 ### Honourable Mention
 
-Rapsody - Eve [Eve by Rapsody on Spotify](https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S?si=q5Ig-BqGQa-AEjdc3U3Zsg)
+Rapsody - [Eve](https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S?si=q5Ig-BqGQa-AEjdc3U3Zsg)
 
 Rex Orange County - [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l?si=zfSrFs0ASvGiD1SiZ7zFDA)
 
