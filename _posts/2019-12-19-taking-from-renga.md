@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# taking from renga
-
 A couple weeks ago Ben and I were having lunch and he asked me "What do you want to take from Renga this year?" By default started to answer about  the goals I had *for* Renga.  He very quickly called me out and asked how I wanted to see my role grow and change, how Renga could facilitate my personal growth. This really caught me off guard because, like many entrepreneurs I had a hard time separating myself from Renga. As much as I am helping drive & shape Renga forward, it is also helping drive and shape me.
 
 As I sat and pondered the question it was amazing how surprised I was by my own answer. I said that I wanted to remove myself from the projects. That this space would allow me the time to nurture relationships, spend more time teaching & coaching. I want to provide guidance and value to the organizations that we work with outside of the mess of the projects we are working on. 
