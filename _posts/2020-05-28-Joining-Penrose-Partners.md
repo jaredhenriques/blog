@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 This past week I have accepted a position as a partner at a firm called Penrose Partners. Penrose is an emerging technology advisory group. Penrose does a lot of things so there is a reason that when I say “emerging technology advisory group” that you are not clear about what we do. 
 Penrose is working with two very distinct sides of the market. We provide consultation services for emerging enterprises about how to adopt and enable blockchain technology. This could be anything from working with the government providing consultation on how blockchain might be able to solve certain issues, to working with big banks on exploring ways to monitor and regulate cheque life cycles. It’s pretty wide ranging because blockchain technology is capable of many things. 
@@ -15,4 +15,4 @@ In this past month the one thing that has been adundantly clear is that the bloc
 
 All of the other partners at Penrose have been working in blockchain for the last 6-10 years and although I constantly feel like the dumbest guy in the room, I’m excited about the differing perspective that I bring to the table.  
 
-If you’re interested in learning more about blockchain and it’s potential use cases, I’m always happy to chat over email. 
+If you’re interested in learning more about blockchain and it’s potential use cases, I’m always happy to chat over email.
